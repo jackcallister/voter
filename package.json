@@ -1,0 +1,10 @@
+{
+  "name": "voter",
+  "description": "Voter, a voting app built with node and express.js",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.0",
+    "ejs": "0.8.x"
+  }
+}
